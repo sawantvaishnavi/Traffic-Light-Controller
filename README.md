@@ -31,3 +31,14 @@ Transitions between these states are triggered by timing signals, ensuring safe 
 
 Overall, this project demonstrates how digital logic design and state machine control can be effectively applied to real-world problems like urban traffic management, offering a smart and cost-efficient alternative to manual or sensor-based systems.
 
+
+## Methodology
+
+### Directions Considered
+The directions M1, MT, M2, and S are considered for analysis in this project.  
+They represent the main road and side road traffic flow in the T-junction.
+
+<p align="center">
+  <img src="traffic_light_controller_direction.jpg" alt="Directions Considered" width="500"><br>
+  <em>Figure 1: Directions considered for T-junction</em>
+</p>
