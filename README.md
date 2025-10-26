@@ -42,3 +42,21 @@ They represent the main road and side road traffic flow in the T-junction.
   <img src="traffic light controller direction.jpg" alt="Directions Considered" width="500"><br>
   <em>Figure 1: Directions considered for T-junction</em>
 </p>
+
+
+## Problem Statement
+
+The following figures illustrate the problem setup and traffic directions considered for the T-junction traffic light controller.
+
+<p align="center">
+  <img src="problem%20statement_1.jpg" alt="Problem Statement 1" width="500">
+</p>
+
+<p align="center">
+  <img src="problem%20statement_2.jpg" alt="Problem Statement 2" width="500">
+</p>
+
+<p align="center">
+  <img src="problem%20statement_3.jpg" alt="Problem Statement 3" width="500"><br>
+  <em>Figure 2: Combined view of the T-junction traffic light problem setup</em>
+</p>
