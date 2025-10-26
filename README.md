@@ -39,6 +39,6 @@ The directions M1, MT, M2, and S are considered for analysis in this project.
 They represent the main road and side road traffic flow in the T-junction.
 
 <p align="center">
-  <img src="traffic_light_controller_direction.jpg" alt="Directions Considered" width="500"><br>
+  <img src="traffic light controller direction.jpg" alt="Directions Considered" width="500"><br>
   <em>Figure 1: Directions considered for T-junction</em>
 </p>
