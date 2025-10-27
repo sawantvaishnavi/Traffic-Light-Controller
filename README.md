@@ -60,3 +60,5 @@ The following figures illustrate the problem setup and traffic directions consid
   <img src="problem%20statement_3.jpg" alt="Problem Statement 3" width="500"><br>
   <em>Figure 2: Combined view of the T-junction traffic light problem setup</em>
 </p>
+
+## State Diagram
